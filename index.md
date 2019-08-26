@@ -35,3 +35,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Experimenting
+```markdown
+//Theoretically this should look like code
+System.out.println();
+```
+1. Number lists
+2. Should be easy
+
+- Bulleted list
+-test
+
+`This should be a line of "code"`
+
+[Link to google?](www.google.com)
